@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\bin\Debug\net6.0\PYP-Sync-Async.exe
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\bin\Debug\net6.0\PYP-Sync-Async.deps.json
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\bin\Debug\net6.0\PYP-Sync-Async.runtimeconfig.json
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\bin\Debug\net6.0\PYP-Sync-Async.dll
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\bin\Debug\net6.0\PYP-Sync-Async.pdb
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\obj\Debug\net6.0\PYP-Sync-Async.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\obj\Debug\net6.0\PYP-Sync-Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\obj\Debug\net6.0\PYP-Sync-Async.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\obj\Debug\net6.0\PYP-Sync-Async.AssemblyInfo.cs
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\obj\Debug\net6.0\PYP-Sync-Async.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\obj\Debug\net6.0\PYP-Sync-Async.dll
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\obj\Debug\net6.0\refint\PYP-Sync-Async.dll
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\obj\Debug\net6.0\PYP-Sync-Async.pdb
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\obj\Debug\net6.0\PYP-Sync-Async.genruntimeconfig.cache
+C:\Users\hp\Desktop\PYP\PYP-Sync-Async\PYP-Sync-Async\obj\Debug\net6.0\ref\PYP-Sync-Async.dll
